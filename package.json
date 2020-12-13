@@ -1,0 +1,27 @@
+{
+  "name": "fetchbackend",
+  "version": "0.0.1",
+  "description": "Pacote encarregado de facilitar a busca de dados no back-end e ty\u001b[3~\u001b[3~\u001b[3~\u001b[3~razer para ser manipulado no front",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingkernel/fetchbackend.git"
+  },
+  "keywords": [
+    "fetch",
+    "backend",
+    "back-end",
+    "facilidade",
+    "danielshogans",
+    "hogans"
+  ],
+  "author": "Daniels Hogans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingkernel/fetchbackend/issues"
+  },
+  "homepage": "https://github.com/kingkernel/fetchbackend#readme"
+}
